@@ -1,4 +1,5 @@
 # 🌸 Flower Classification using K-Nearest Neighbors (KNN)
+Machine Learning Project | Python | Scikit-learn | Iris Dataset
 
 A machine learning project that classifies iris flowers into three species — *setosa*, *versicolor*, and *virginica* — using the K-Nearest Neighbors (KNN) algorithm, based on four measurements: sepal length, sepal width, petal length, and petal width.
 
